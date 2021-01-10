@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![1](https://github.com/A-M-Amine/A-M-Amine/blob/main/code.png)
 <!--
 **A-M-Amine/A-M-Amine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
