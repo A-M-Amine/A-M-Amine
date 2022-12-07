@@ -1,5 +1,5 @@
 
-![](https://github.com/A-M-Amine/A-M-Amine/blob/main/ProfileBanner.gif)
+![](https://github.com/A-M-Amine/A-M-Amine/blob/main/Banner.gif)
 
 # Hi there! <img src="https://github.com/A-M-Amine/A-M-Amine/blob/main/wave.gif" width="30px" height="30px" />
 
