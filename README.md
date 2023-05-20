@@ -3,13 +3,16 @@
 
 # Hi there! <img src="https://github.com/A-M-Amine/A-M-Amine/blob/main/wave.gif" width="30px" height="30px" />
 
-I'm a Full time student and a developer. I'm from Algeria, currently pursuing a Master's Degree in Computer Vision. You can find me on <a href="https://www.linkedin.com/in/ahmane-mohamed-amine/">LinkedIn</a>.
+I am a developer and a full-time student based in Algeria. I will soon be graduating with a Master's degree, specializing in Computer Vision. You can find me on <a href="https://www.linkedin.com/in/ahmane-mohamed-amine/">LinkedIn</a>.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
 
 
 
