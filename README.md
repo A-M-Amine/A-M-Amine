@@ -3,7 +3,8 @@
 
 # Hi there! <img src="https://github.com/A-M-Amine/A-M-Amine/blob/main/wave.gif" width="30px" height="30px" />
 
-I am a developer and a full-time student based in Algeria. I will soon be graduating with a Master's degree, specializing in Computer Vision. You can find me on <a href="https://www.linkedin.com/in/ahmane-mohamed-amine/">LinkedIn</a>.
+I am a backend developer based in Algeria. I hold a Master's degree in Computer Vision,
+You can find me on <a href="https://www.linkedin.com/in/ahmane-mohamed-amine/">LinkedIn</a>.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
