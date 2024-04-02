@@ -18,7 +18,7 @@ You can find me on <a href="https://www.linkedin.com/in/ahmane-mohamed-amine/">L
 
 ## &#x1f4c8; GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=a-m-amine&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=a-m-amine&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
